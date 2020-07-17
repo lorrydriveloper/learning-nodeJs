@@ -1,10 +1,14 @@
-const num1 = 6;
-const num2 = 20;
+// const num1 = 6;
+// const num2 = 20;
 
-console.log(num2 + num1);
+// console.log(num2 + num1);
 
-const sayHello = () => {
-  console.log("Hello from node file");
-};
+// const sayHello = () => {
+//   console.log("Hello from node file");
+// };
 
-sayHello();
+// // sayHello();
+
+// console.log(module);
+
+throw new Error("opps");
